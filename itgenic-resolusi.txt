@@ -4,4 +4,4 @@ Bismillah
 - Konsisten untuk belajar Python
 - Konsisten untuk belajar GIT
 - Promosi di Web Itegenic
-- Buat Web Template
+- Ikut Online Course
